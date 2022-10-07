@@ -1,7 +1,6 @@
 algoritmo "jogodavelha"
 
 var
-
 jog: vetor[1..3,1..3] de caractere
 modo,comp,cont, i, j, a, b, fim, resp_num : inteiro
 aux, play1, play2, resp: caractere
